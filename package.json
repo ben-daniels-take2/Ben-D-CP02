@@ -1,0 +1,22 @@
+{
+  "name": "ben-d-cp02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-daniels-take2/Ben-D-CP02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-daniels-take2/Ben-D-CP02/issues"
+  },
+  "homepage": "https://github.com/ben-daniels-take2/Ben-D-CP02#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
